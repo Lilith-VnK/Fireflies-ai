@@ -1,5 +1,8 @@
-Thanks For @https://github.com/Arynz-C/
+Ai From https://github.com/Arynz-C/
 
+-----USAGE----
+ollama run Arynz/Fireflies:1b > For 1B AI
+bash install.sh > For 7B AI
 
 -----BEGIN PGP SIGNATURE-----
 
